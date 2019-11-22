@@ -2,7 +2,7 @@
 ### Description: 
     Simply put, STANK, is a file sniffer. It is a powershell tool that allows for recursive file  
     search based on the extension, as well as gathering metadata about each of the files that it finds. 
-    It conveniently then makes copies of these files and puts them in an ouptut location specified by 
+    It conveniently then makes copies of these files and puts them in an output location specified by 
     the user that can be used for further inspection later on.
 ### Usage:
     .\stank.ps1 -i <INPUT_PATH> -o <OUTPUT_PATH> [[-e] <extension>]
